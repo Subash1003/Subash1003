@@ -1,10 +1,10 @@
-# Hi 👋 I'm Subash
+## Hi 👋 I'm Subash
 
 🎓 B.Tech Information Technology Graduate 
 
 💻 Software Developer
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,6 +31,11 @@
 ![OOP](https://img.shields.io/badge/OOP-Programming-blue?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-Database-orange?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+### 🌱 Currently Learning
+
+![Node.js](https://img.shields.io/badge/Learning-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Learning-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ## 🌐 Connect with Me
 
